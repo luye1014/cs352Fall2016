@@ -1,0 +1,43 @@
+A file is basically a sequence of bytes and the collections of files are grouped into directories.
+
+?How to cd to a directory with name containning space in bash.
+- "\ " is representing TAB in bash
+
+Referring to files:
+1)Absolute Paths
+2)Relative Paths
+'..' means "move up one level"
+'.' means current directory
+
+***input and output***
+-Data are read from and written to i/o streams
+?What is the streams?
+?What is the I?O redirection?
+familiar with I?O redirection
+
+Section 2 Rusell
+operating system provides a file
+applications stores files into the bits sitting in the desk
+
+your computer is different from othercomputers 
+application1)GUI application 2)shell(text based program)its job is to watch keyboard command. 
+
+Reading-Chapter 1: Upto "Background Jobs"
+
+What is Unix?
+Unix is an operating system. When we talk about Unix, we also talk about aset of very standard command.
+When you run "ls", you are not talking to the operating system, you are talking to a program and the program talking to the operating system you have.
+s
+Everthing we count is a file
+Linux works exactly like Unix.
+
+Unix Commands
+Syntax: command options arguments
+***some command***
+pwd: present working directory 
+cd : change directory
+ls -l : long listing, gives a lot information
+ls -a : want to know all files(files, files with peroid.)
+ls -al: show all of files and show long listing
+ps : process you are running
+

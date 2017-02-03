@@ -1,0 +1,8 @@
+insert Foo 1
+print
+delete Foo
+insert A 1
+print
+insert Foo 2
+removeHead
+print

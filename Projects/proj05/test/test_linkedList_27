@@ -1,0 +1,6 @@
+print
+insert tooLingName2345678 100 1 1 2 3
+insert tooLongName2345678910 100
+print
+insert shouldBeOKAfter -17
+print

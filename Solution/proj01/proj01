@@ -1,0 +1,66 @@
+NOTE: This is not an exhaustive list of all of the variations that we will
+      accept; however, it's our list of "most likely" solutions to each.
+
+------------------
+
+1
+ls -l /usr/bin
+
+2
+man xargs
+info xargs
+xargs -?
+
+3
+mkdir myDir
+
+4
+cd ..
+
+5
+cd /a/b/x/y
+
+6
+cd ../x/y
+
+7
+cp orig copy
+
+8
+cp -r dir1 dir2
+
+9
+ls -d b*
+
+10
+ls -ld *.txt
+
+11
+ls > files
+
+12
+diff expected actual
+diff actual expected
+
+13
+wc -l asdf
+
+14
+grep HELLO records
+cat records | grep HELLO
+
+15
+grep HELLO records | wc -l
+
+16
+cat foo bar
+
+17
+mv old new
+
+18
+mv misplaced putHere
+
+19
+rm badFile
+
